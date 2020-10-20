@@ -2,6 +2,6 @@
 
 [example](https://app.example.com)
 [example2](https://testdeeplink.com)
-[example3](example://gizmos)
+[example3](http://www.example.com/gizmos)
 
 
