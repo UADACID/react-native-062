@@ -8,11 +8,11 @@
 
 [example profile](http://www.example.com/profile/2wsx1qaz)
 
-[link setting tanpa url](http://setting)
+[link setting ios](example://setting)
 
-[link setting tanpa home](http://home)
+[link home ios](example://home)
 
-[link setting tanpa profile](http://profile)
+[link profile ios](example://profile)
 
 
 
