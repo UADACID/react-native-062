@@ -6,7 +6,7 @@
 
 [example setting](http://www.example.com/setting)
 
-[example profile](http://www.example.com/profile)
+[example profile](http://www.example.com/profile/2wsx1qaz)
 
 [link setting tanpa url](http://setting)
 
