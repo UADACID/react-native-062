@@ -7,6 +7,7 @@
 [example setting](http://www.example.com/setting)
 
 [example profile](http://www.example.com/profile/fsahgdksdasiuUhuBhjbAHgshagAGHSahj)
+
 [example notfound](http://www.example.com/notfound404)
 
 [link setting ios](example://setting)
